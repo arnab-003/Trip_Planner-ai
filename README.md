@@ -23,3 +23,10 @@ This is an intelligent AI-based Trip Planner built using **Streamlit** and **Goo
    git clone https://github.com/arnab-003/AI-Trip-Planner.git
    cd AI-Trip-Planner
 
+
+🤝 Contributing
+Contributions are welcome! Feel free to fork the repo and submit a pull request.
+
+
+📄 License
+MIT License © 2025 Arnab
